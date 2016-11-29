@@ -12,11 +12,7 @@ AMAZON SES to send email
 RECPATCH for subscribers
 
 
-kontaktme.at
-
-contactme.at
-
-ourmail.at er ledig
+ourmail er ledig
 talktous er ledig	
 
 profitting:
