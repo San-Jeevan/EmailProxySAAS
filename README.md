@@ -30,3 +30,5 @@ two factor auth
 https://www.twilio.com/blog/2013/04/add-two-factor-authentication-to-your-website-with-google-authenticator-and-twilio-sms.html
 
 ability to forward msg to sms
+
+create email list (.txt, .csv) of all participants in a campaign
