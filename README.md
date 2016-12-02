@@ -38,4 +38,8 @@ ability to forward msg to sms
 
 create email list (.txt, .csv) of all participants in a campaign
 
+Growth hacking:
+
+-Crawle sider hvor folk legger ut epost og automatisk advare dem
+
 
