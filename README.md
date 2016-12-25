@@ -11,6 +11,8 @@ AMAZON SES to send email
 
 RECPATCH for subscribers
 
+husk det må være synlig Verified logo med ****@amazon.com f.eks
+
 
 ourmail er ledig
 talktous er ledig	
@@ -30,6 +32,8 @@ advanced dashboard / useragent / country / referrer url etc
 block country
 
 design landing page
+
+multi-receiver. flere mail samtidig på en kampanje
 
 two factor auth 
 https://www.twilio.com/blog/2013/04/add-two-factor-authentication-to-your-website-with-google-authenticator-and-twilio-sms.html
